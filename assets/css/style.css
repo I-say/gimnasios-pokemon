@@ -1,0 +1,10 @@
+body{
+    background: #FFBC0D;
+}
+
+.div1{
+    background: #E3051B;
+    justify-content: center;
+    display: flex;
+}
+
